@@ -2,7 +2,7 @@
 
 ### I am a Front End Developer
 
-🔭 Actively developing an exciting project called Writepost. Also working on my other portfolio projects.<br>🌱 Expanding my skills in React with Next.js and TypeScript. I also started exploring Python and Django to expand my skillset.<br>💻 Skilled in front-end development with expertise in React, Next.js, TypeScript, Tailwind etc. Also BaaS like Firebase, Appwrite etc.<br>📫 Reach me via email at abdulwajidnv@gmail.com or connect with me on Twitter and LinkedIn.<br>⚡ Passionate about continuous learning and upgrading my skills.<br>🔗 Check out my GitHub repositories to see my previous projects.<br>✨ Open to collaborating on exciting projects and contributing to open-source initiatives.<br>👀 Seeking full-time opportunities as a front-end web developer.
+🔭 Actively developing my personal portfolio application. Also working on my other portfolio projects.<br>🌱 Expanding my skills in React with Next.js and TypeScript. I also started exploring Python and Django to expand my skillset.<br>💻 Skilled in front-end development with expertise in React, Next.js, TypeScript, Tailwind etc. Also BaaS like Firebase, Appwrite etc.<br>📫 Reach me via email at abdulwajidnv@gmail.com or connect with me on Twitter and LinkedIn.<br>⚡ Passionate about continuous learning and upgrading my skills.<br>🔗 Check out my GitHub repositories to see my previous projects.<br>✨ Open to collaborating on exciting projects and contributing to open-source initiatives.<br>👀 Seeking full-time opportunities as a front-end web developer.
 
 ## 🌐 Socials
 
